@@ -2,7 +2,7 @@
     "python-envs.defaultEnvManager": "ms-python.python:system",
     "python-envs.pythonProjects": [
         {
-            "path": "py函数.py",
+            "path": "函数初步.py",
             "envManager": "ms-python.python:system",
             "packageManager": "ms-python.python:pip"
         }
